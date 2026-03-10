@@ -8,7 +8,7 @@
 * **[CONFIGURATION_MANAGEMENT.md](./CONFIGURATION_MANAGEMENT.md)** - Принципы управления конфигурациями и секретами.
 * **[MONITORING_SLA.md](./MONITORING_SLA.md)** - Стратегия мониторинга, ключевые метрики (SLI/SLO) и алертинг.
 * **[INCIDENT_MANAGEMENT.md](./INCIDENT_MANAGEMENT.md)** - Процесс управления инцидентами: от обнаружения до пост-мортема.
-* **[RUNBOOKS.md](./RUNBOOKS.md)** - Руководства (runbooks) для реагирования на типовые инциденты и playbook восстановления.
+* **[RUNBOOKS.md](./RUNBOOKS.md)** - Руководства (runbooks) для реагирования на типовые инциденты и playbook восстановления..
 
 ## Назначение
 Документы служат единым источником истины для команды DevOps и разработки, описывая стандартные процедуры и ожидания.
